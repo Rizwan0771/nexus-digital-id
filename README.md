@@ -1,6 +1,6 @@
 # Nexus Digital Identity Management System
 
-A robust backend system for managing digital identities across a federated ecosystem of organisations. Built as part of the ECS506U Software Engineering Project.
+A robust backend system for managing digital identities across a federated ecosystem of organisations. Built as part of the Software Engineering Project.
 
 ## 🔗 Repository
 
