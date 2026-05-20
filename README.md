@@ -4,7 +4,7 @@ A robust backend system for managing digital identities across a federated ecosy
 
 ## 🔗 Repository
 
-**GitHub Repository:** [Add your repository link here]
+**GitHub Repository:** https://github.com/Rizwan0771/nexus-digital-id
 
 ## 📋 Overview
 
@@ -76,8 +76,8 @@ tests/
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd Task20
+git clone https://github.com/Rizwan0771/nexus-digital-id.git
+cd nexus-digital-id
 ```
 
 2. Create a virtual environment (recommended):
@@ -168,7 +168,7 @@ GitHub Actions workflow automatically:
 
 ## 👤 Author
 
-Hussarim - Queen Mary University of London
+Rihad Rizwan Hussain - Queen Mary University of London
 
 ## 📄 Licence
 
