@@ -1,0 +1,21 @@
+# Nexus Digital ID Management System - Dependencies
+
+# Testing Framework
+pytest>=7.4.0
+pytest-cov>=4.1.0
+hypothesis>=6.92.0
+
+# Code Quality
+flake8>=6.1.0
+
+# Date/Time Handling
+python-dateutil>=2.8.2
+
+# UUID Generation (standard library, listed for documentation)
+# uuid - built-in
+
+# JSON handling (standard library, listed for documentation)
+# json - built-in
+
+# Type hints support
+typing-extensions>=4.8.0
